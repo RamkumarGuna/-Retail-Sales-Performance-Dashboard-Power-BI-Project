@@ -28,3 +28,4 @@ This project helped me focus not only on creating visualizations, but also on pr
 I’m continuously improving my Power BI, SQL, Python, and Data Analytics skills and building projects for my portfolio.
 
 #PowerBI #DataAnalytics #BusinessIntelligence #Dashboard #DataVisualization #DAX #SQL #DataAnalyst #PortfolioProject #RetailAnalytics
+<img width="1424" height="804" alt="image" src="https://github.com/user-attachments/assets/e3ac5501-630e-4142-b9ea-bb2f97eb94bd" />
